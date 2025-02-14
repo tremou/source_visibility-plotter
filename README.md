@@ -5,7 +5,7 @@ It has a few external requirements that need to be installed in advance:
 [streamlit](https://streamlit.io/), [bokeh](https://bokeh.org/), [pandas](https://pandas.pydata.org/), and [astropy](https://www.astropy.org/). 
 
 
- A screenshot can be seen [in this figure](https://gitlab.nrao.edu/etremou/visibility-plotter/-/blob/main/visibility_plotter.png).  
+ A screenshot can be seen [in this figure](https://github.com/tremou/source_visibility-plotter/blob/main/visibility_plotter.png).  
 
 ## Getting started
 
